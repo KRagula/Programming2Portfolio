@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+# Programming 2 Portfolio
+## Sam Cookson
+
+Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 You can use the [editor on GitHub](https://github.com/SamBow/Programming2Portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
