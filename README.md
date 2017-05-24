@@ -19,7 +19,6 @@ Mechanics:
 <li> Point and Click to Shoot</li>
 </ul>
 
-![alt text](https://sambow.github.io/Programming2Portfolio/GUI/CrowdSourcing1.png)
 //picture
 
 Repo [here](https://github.com/SamBow/Programming2Portfolio/tree/master/CellsGame)
@@ -30,7 +29,7 @@ The crowd sourcing app allows its user to create a specified number of questions
 
 The user is allowed to create up to five questions.
 
-//picture
+![alt text](https://sambow.github.io/Programming2Portfolio/GUI/CrowdSourcing1.png)
 
 The user then enters the questions they wish to have answered.
 
