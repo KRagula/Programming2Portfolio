@@ -58,8 +58,7 @@ This application allows the user to control roach population by increasing and d
 
 ![alt text](https://sambow.github.io/Programming2Portfolio/GUI/RoachViewerStart.png)
 
-The second class, RoachSimulation visualizes the growth of a roach population over a timeframe of 10 generations.  A timer waits
-1/2 of a second before either doubling the population or killing a portion of the population.  The simulation lasts 10 seconds.
+The second part of this application simulates roach population on its own. The simulation lasts 10 seconds. There is a chance the roach population with be doubled or halved.
 
 Start:
 
@@ -71,9 +70,5 @@ End:
 
 Repo [here](https://github.com/SamBow/Programming2Portfolio/tree/master/Roaches)
 
-<footer>
-    		<ul>
-        		<li><a href="mailto:k.ragula1@gmail.com">Contact Me</a></li>
-        		<li><a href="https://github.com/KRagula">My Github Profile</a></li>
             
 
