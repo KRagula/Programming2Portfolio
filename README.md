@@ -19,7 +19,7 @@ Mechanics:
 <li> Point and Click to Shoot</li>
 </ul>
 
-![alt text](https://github.com/SamBow/Programming2Portfolio/blob/master/GUI/CrowdSourcing1.png)
+![alt text](https://sambow.github.io/Programming2Portfolio/GUI/CrowdSourcing1.png)
 //picture
 
 Repo [here](https://github.com/SamBow/Programming2Portfolio/tree/master/CellsGame)
