@@ -2,7 +2,7 @@
    The class represents a roach population that may breed and that
    may be controlled by insecticide.
 */
-public class RoachPopulation
+public class Roaches
 {
    private int population;
 
