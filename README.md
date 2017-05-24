@@ -33,7 +33,7 @@ The user is allowed to create up to five questions.
 
 The user then enters the questions they wish to have answered.
 
-//picture
+![alt text](https://sambow.github.io/Programming2Portfolio/GUI/CrowdSourcing2.png)
 
 The results of the survey/quiz will then be returned to the user.
 
